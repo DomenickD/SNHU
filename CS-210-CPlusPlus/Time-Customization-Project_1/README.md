@@ -28,11 +28,8 @@
 
 3. Follow the prompts to:
 
-  *Choose the desired clock format
-  
-  *Enter the initial time
-  
-  *Select options to add hours, minutes, or seconds
-  
-  *Exit the program
+  -Choose the desired clock format
+  -Enter the initial time
+  -Select options to add hours, minutes, or seconds
+  -Exit the program
   
