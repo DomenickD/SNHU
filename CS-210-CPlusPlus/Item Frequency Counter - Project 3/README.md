@@ -28,6 +28,7 @@ Before running the program, make sure you have:
 3. **Follow the on-screen instructions to interact with the program.**
 
 # Module 8 Journal Assignment
+
    - Summarize the project and what problem it was solving.
 
 
