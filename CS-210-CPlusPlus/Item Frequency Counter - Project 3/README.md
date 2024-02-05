@@ -54,12 +54,12 @@ Before running the program, make sure you have:
    - What skills from this project will be particularly transferable to other projects or course work?
 
 
-   Modular programming and code organization, file input/output handling, working with C++ data structures (maps), and menu-driven user interface design (Although if I spent more time on the menu, it would look much better).
+      Modular programming and code organization, file input/output handling, working with C++ data structures (maps), and menu-driven user interface design (Although if I spent more time on the menu, it would look much better).
    
    - How did you make this program maintainable, readable, and adaptable?
 
    
-   Maintainability: The code is well-organized into functions, making it easy to modify, extend, and understand in the future.
-   Readability: The code includes comments and follows coding conventions like camelCase variable names, enhancing readability.
-   Adaptability: The program is adaptable as it can be easily extended to include more features or handle different types of data files. It could benefit from improved error handling to adapt to various scenarios better though.
+      Maintainability: The code is well-organized into functions, making it easy to modify, extend, and understand in the future.
+      Readability: The code includes comments and follows coding conventions like camelCase variable names, enhancing readability.
+      Adaptability: The program is adaptable as it can be easily extended to include more features or handle different types of data files. It could benefit from improved error handling to adapt to various scenarios better though.
    
