@@ -23,7 +23,7 @@ Before running the program, make sure you have:
 
 2. **Run the program:**
 
-  `./item_frequency_counter`
+     `./item_frequency_counter`
 
 3. **Follow the on-screen instructions to interact with the program.**
 
