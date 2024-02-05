@@ -29,6 +29,7 @@ Before running the program, make sure you have:
 
 # Per Assignment
    - Summarize the project and what problem it was solving.
+
      The project is a C++ program designed to solve the problem of counting and managing the frequency of items stored in a data file. It provides a menu-driven interface for users to search for item frequencies, display frequencies of all items, generate a histogram, and save data to a backup file. The program reads data from a file named `CS210_Project_Three_Input_File.txt` and allows users to interact with the data efficiently.
    
    - What did you do particularly well?
