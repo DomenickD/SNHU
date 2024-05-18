@@ -8,8 +8,8 @@
 **Issue Addressed:** The company wanted to ensure secure communications and data integrity in its web application. The primary security vulnerabilities identified were the lack of data integrity checks and insecure data transmission.
 
 **What was Done Well:**
-- **Identification and Suppression of False Positives:** Utilized the OWASP Dependency-Check tool to identify and suppress known false positives, ensuring a clean and actionable report.
-- **Implementation of Secure Measures:** Added checksum verification to ensure data integrity and configured HTTPS to secure data transmission.
+- **Identification and Suppression of False Positives:** Utilized the OWASP Dependency-Check tool to identify and suppress known false positives, ensuring a clean and actionable report. (this made alot of sense in hindsight)
+- **Implementation of Secure Measures:** Added checksum verification to ensure data integrity and configured HTTPS to secure data transmission. (Although I am not sure I need the HTTPS correctly on this assignment)
 - **Thorough Testing:** Conducted static and dynamic testing to verify no new vulnerabilities were introduced.
 
 **Importance of Secure Coding:**
