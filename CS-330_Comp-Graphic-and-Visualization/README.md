@@ -1,3 +1,5 @@
+# 8-3 Journal
+
 - How do I approach designing software?
 
 I first start by seeing what I have. Then what I have to do. I make a mental plan often creating functions and leaving comments for them to do a certain thing. I list it all out before coding any of them. This helps me stay organized and see my progress in real time. 
