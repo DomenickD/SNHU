@@ -30,6 +30,3 @@ When designing software, I approach it with a structured methodology that includ
 
 In the future, I will continue to emphasize thorough requirement gathering and iterative design processes. Additionally, incorporating user experience (UX) design principles and usability testing will be key strategies to ensure the system meets user expectations and provides a seamless experience.
 
----
-
-This README file provides an overview of the DriverPass project, highlights strengths, identifies areas for improvement, and outlines the approach to software design and future strategies.
